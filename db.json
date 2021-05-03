@@ -1,23 +1,19 @@
 {
-  "firstName": "John",
-    "lastName": "Smith",
-    "age": 25,
-    "address": {
-        "streetAddress": "21 2nd Street",
-        "city": "New York",
-        "state": "NY",
-        "postalcode": 10021,
-        "phoneNumber": [{
-                "type": "home",
-                "number": "212 55-1234"
-            },
-            {
-                "type": "fax",
-                "number": "646 55-5647"
-            }
-        ]
+  "topics": [
+    {
+      "id": 1,
+      "title": "to learn angular",
+      "completed": false
     },
-    "gender": {
-        "type": "male"
+    {
+      "id": 2,
+      "title": "to learn french",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "title": "to learn some",
+      "completed": false
     }
+  ]
 }
