@@ -1,19 +1,11 @@
 {
-  "topics": [
-    {
-      "id": 1,
-      "title": "to learn angular",
-      "completed": false
+  "famiglia": [
+    {"nome": "Federico",
+     "cognome": "Rossi",
+     "età": 61
     },
-    {
-      "id": 2,
-      "title": "to learn french",
-      "completed": true
-    },
-    {
-      "id": 3,
-      "title": "to learn some",
-      "completed": false
-    }
+    {"nome": "Simona",
+     "cognome": "Bianchi",
+     "età": 62
   ]
 }
