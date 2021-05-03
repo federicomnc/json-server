@@ -2,11 +2,11 @@
   "famiglia": [
     {"nome": "Federico",
      "cognome": "Rossi",
-     "età": 61
+     "eta": 61
     },
     {"nome": "Simona",
      "cognome": "Bianchi",
-     "età": 62
+     "eta": 62
     } 
   ]
 }
